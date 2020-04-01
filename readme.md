@@ -13,7 +13,7 @@ schLauncher.exeに回路図ファイルをドラッグ・アンド・ドロップすれば起動します．
 
 # ダウンロード
 
-<a href="releases">Release</a>からどうぞ．
+<a href="https://github.com/thistuna/schLauncher/releases">Release</a>からどうぞ．
 
 # 開発環境
 
