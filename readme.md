@@ -1,20 +1,22 @@
 # schLauncher
 
-schLauncher‚ÍC“¯‚¶.schŠg’£Žq‚ð‚Â‚¯‚Ä‚¢‚éEagle‚ÆKiCad EEschema‚Ìƒ‰ƒ“ƒ`ƒƒ[‚Å‚·D
-‚±‚Ìƒ‰ƒ“ƒ`ƒƒ[‚ð‰î‚µ‚Äschƒtƒ@ƒCƒ‹‚ðŠJ‚­‚±‚Æ‚ÅCŽ©“®‚ÅEagle‚©KiCad EEschema‚Ì‚Ç‚¿‚ç‚©‚ðŒÄ‚Ño‚µ‚Ü‚·D
+schLauncherã¯ï¼ŒåŒã˜.schæ‹¡å¼µå­ã‚’ã¤ã‘ã¦ã„ã‚‹Eagleã¨KiCad EEschemaã®ãƒ©ãƒ³ãƒãƒ£ãƒ¼ã§ã™ï¼Ž
+ã“ã®ãƒ©ãƒ³ãƒãƒ£ãƒ¼ã‚’ä»‹ã—ã¦schãƒ•ã‚¡ã‚¤ãƒ«ã‚’é–‹ãã“ã¨ã§ï¼Œè‡ªå‹•ã§Eagleã‹KiCad EEschemaã®ã©ã¡ã‚‰ã‹ã‚’å‘¼ã³å‡ºã—ã¾ã™ï¼Ž
 
-# Žg‚¢•û
+# ä½¿ã„æ–¹
 
-schLauncher.exe‚ðƒ_ƒuƒ‹ƒNƒŠƒbƒN‚Å‹N“®‚µ‚Ü‚·D
-‚·‚é‚ÆCÝ’è‰æ–Ê‚ªo‚é‚Ì‚ÅCKiCad‚Ìeeschema.exe‚ÆEagle‚Ìeagle.exe‚ÌƒpƒX‚ðÝ’è‚µ‚ÄOKƒ{ƒ^ƒ“‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢D
+schLauncher.exeã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã§èµ·å‹•ã—ã¾ã™ï¼Ž
+ã™ã‚‹ã¨ï¼Œè¨­å®šç”»é¢ãŒå‡ºã‚‹ã®ã§ï¼ŒKiCadã®eeschema.exeã¨Eagleã®eagle.exeã®ãƒ‘ã‚¹ã‚’è¨­å®šã—ã¦OKãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãã ã•ã„ï¼Ž
 
-‚ ‚Æ‚ÍCschLauncher.exe‚ðsch‚ÉŠÖ˜A•t‚¯‚é‚È‚èCƒRƒ}ƒ“ƒhƒ‰ƒCƒ“‚©‚çschLauncher.exe (‰ñ˜H}‚Ìƒtƒ@ƒCƒ‹–¼)‚Å‹N“®‚·‚é‚È‚èC
-schLauncher.exe‚É‰ñ˜H}ƒtƒ@ƒCƒ‹‚ðƒhƒ‰ƒbƒOEƒAƒ“ƒhEƒhƒƒbƒv‚·‚ê‚Î‹N“®‚µ‚Ü‚·D
+![SchLauncherSetting](https://user-images.githubusercontent.com/20456614/78452103-4adebb80-76c4-11ea-8f6c-f5996cca615d.png)
 
-# ƒ_ƒEƒ“ƒ[ƒh
+ã‚ã¨ã¯ï¼ŒschLauncher.exeã‚’schã«é–¢é€£ä»˜ã‘ã‚‹ãªã‚Šï¼Œã‚³ãƒžãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ã‹ã‚‰schLauncher.exe (å›žè·¯å›³ã®ãƒ•ã‚¡ã‚¤ãƒ«å)ã§èµ·å‹•ã™ã‚‹ãªã‚Šï¼Œ
+schLauncher.exeã«å›žè·¯å›³ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒ‰ãƒ©ãƒƒã‚°ãƒ»ã‚¢ãƒ³ãƒ‰ãƒ»ãƒ‰ãƒ­ãƒƒãƒ—ã™ã‚Œã°èµ·å‹•ã—ã¾ã™ï¼Ž
 
-<a href="https://github.com/thistuna/schLauncher/releases">Release</a>‚©‚ç‚Ç‚¤‚¼D
+# ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰
 
-# ŠJ”­ŠÂ‹«
+<a href="https://github.com/thistuna/schLauncher/releases">Release</a>ã‹ã‚‰ã©ã†ãžï¼Ž
+
+# é–‹ç™ºç’°å¢ƒ
 
 Microsoft Visual Studio 2019 Community
