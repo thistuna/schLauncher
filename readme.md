@@ -1,7 +1,7 @@
 # schLauncher
 
 schLauncherは，同じ.sch拡張子をつけているEagleとKiCad EEschemaのランチャーです．
-このランチャーを介してschファイルを開くことで，自動でEagleかKiCad EEschemaのどちらかを呼び出します．
+このランチャーを介してschファイルを開くことで，自動でEagleかKiCad EEschemaのどちらか適切な方を判別して呼び出します．
 
 # 使い方
 
